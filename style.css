@@ -110,3 +110,28 @@ button {
     text-align: center;
     color: #7b7b7b;
 }
+
+.quotation {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin: 50px 0px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 100;
+}
+
+.author {
+    align-self: flex-end;
+    font-weight: 900;
+}
