@@ -166,3 +166,10 @@ button {
     font-size: 24px;
     color: #f9faf8;
 }
+
+footer {
+    background-color: #1f2937;
+    padding: 40px;
+    color: #E5E7EB;
+    text-align: center;
+}
